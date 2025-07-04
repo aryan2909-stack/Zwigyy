@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    background-color: plum;
+}
+h1{
+    background-color: blueviolet;
+    height: 75px;
+    text-align: center;
+    font-family: tektur;
+}
+.navbar ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    background-color: palevioletred;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: purple;
+}
+.navbar li{
+    float: left;
+}
+.no{
+    background-color: red;
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+    color: red;
+    font-size: 75px;
+}
+.search{
+    border-radius: 8px;
+    padding: 10px;
+    width: 800px;
+    height: 40px;
+    margin-left: 250px;
+}
+.btn{
+    background-color: palevioletred;
+    color: wheat;
+    border: papayawhip;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 30px;
+    margin-left: 170px;
+    box-shadow: 0px 4px 10px rgba(0 0 0 0.2);
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: purple;
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    color:wheat;    
+    background-color: rgb(77, 113, 220);
+    padding: 8px;
+}
+.nav ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    background-color: palevioletred;
+    overflow: hidden;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.nav a:hover{
+    background-color: purple;
+}
+.din{
+    background-color: palevioletred;
+    color: white;
+    border: papayawhip;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 30px;
+    margin-left: 640px;
+    box-shadow: 0px 4px 10px rgba(0 0 0 0.2);
+    text-decoration: none;
+}
+.din:hover{
+    background-color: purple;
+    color: red;
+}
